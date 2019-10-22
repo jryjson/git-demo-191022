@@ -5,3 +5,5 @@ En ny textrad som andra användare.
 Text som användare ett i branschen edtittext.
 
 Textavsnitt som användare ett i bransch newtext (remote).
+
+Skriver som användare två i remote branch newtext.
