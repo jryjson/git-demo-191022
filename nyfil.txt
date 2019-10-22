@@ -8,4 +8,5 @@ Textavsnitt som användare ett i bransch newtext (remote).
 
 Skriver som användare två i remote branch newtext.
 
-Skriver text samtidigt som användare två.
+Skriver text och fixar mergekonflikt.
+
