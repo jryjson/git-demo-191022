@@ -1,3 +1,5 @@
 En första textrad.
 
 En ny textrad som andra användare.
+
+Text som användare ett i branschen edtittext.
