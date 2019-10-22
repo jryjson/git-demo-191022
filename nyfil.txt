@@ -3,3 +3,5 @@ En första textrad.
 En ny textrad som andra användare.
 
 Text som användare ett i branschen edtittext.
+
+Textavsnitt som användare ett i bransch newtext (remote).
